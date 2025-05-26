@@ -10,7 +10,7 @@ use App\EmployeeData;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class LicommController extends Controller
+class EmployeeController extends Controller
 {
     
     /**
